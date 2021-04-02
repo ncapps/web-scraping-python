@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/workspaces/web-scraping-python/venv/bin/python",
+    "python.linting.pylintPath": "/workspaces/web-scraping-python/venv/bin/pylint"
+}
