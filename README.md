@@ -4,6 +4,7 @@ These are notes and examples from [Web Scraping with Python 2nd Edition](http://
 1. [Ch01: Your First Web Scraper](./ch01/README.md)
 2. [Ch02: Advanced HTML Parsing](./ch02/README.md)
 3. [Ch03: Writing Web Crawlers](./ch03/README.md)
+4. [Ch04: Web Crawling Models](./ch04/README.md)4
 
 ## Additional Resources
 - [Code Samples](https://github.com/REMitchell/python-scraping)
