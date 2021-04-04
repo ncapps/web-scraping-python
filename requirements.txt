@@ -2,3 +2,4 @@ beautifulsoup4 >= 4.9.3
 soupsieve >= 2.2.1
 pylint >= 2.7.4
 requests >= 2.25.1
+scrapy >= 2.4.1
